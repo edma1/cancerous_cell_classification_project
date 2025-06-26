@@ -12,9 +12,9 @@ This project develops an automated system for classifying blood cell images to a
 ## Project Structure
 ```
 cancerous_cell_classification_project/
-├── cancerous_cell_classification_slides_deck/                 # Contains slides deck used for presentation
 ├── README.md                                                  # This file
-└── Technical_Notebook_cancerous_cell_classification_project   # Jupyter notebooks with all code
+├── Technical_Notebook_cancerous_cell_classification_project   # Jupyter notebooks with all code
+└── cancerous_cell_classification_slides_deck/                 # Contains slides deck used for presentation
 ```
 ## Dataset
 - 5,000 high-resolution images (1024×1024px)
