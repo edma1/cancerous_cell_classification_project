@@ -10,11 +10,12 @@ This project develops an automated system for classifying blood cell images to a
 🔍 Interpretable features using HOG transformation (88% logistic regression accuracy)
 
 ## Project Structure
+```
 cancerous_cell_classification_project/
 ├── cancerous_cell_classification_slides_deck/                 # Contains slides deck used for presentation
 ├── README.md                                                  # This file
 └── Technical_Notebook_cancerous_cell_classification_project   # Jupyter notebooks with all code
-
+```
 ## Dataset
 - 5,000 high-resolution images (1024×1024px)
 - Five cell classes including both normal and pathological morphologies
